@@ -30,3 +30,10 @@ anylabeling
   - Upload image folder: [File] -> [Open Dir] -> choose folder
     
 <img src="https://github.com/user-attachments/assets/a0bc861b-af93-491b-9e29-a81833b3816b" width="90%"></img>
+
+  - Semi-auto localization (click on specific points to guide the model in segmenting objects): [Auto Labeling] -> Choose the version of SAM2 -> Click on specific points
+    
+<img src="https://github.com/user-attachments/assets/b52e49f6-d570-4755-9035-18612d8be2a2" width="90%"></img>
+
+
+  - 
