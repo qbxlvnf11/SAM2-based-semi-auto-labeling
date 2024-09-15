@@ -33,7 +33,7 @@ anylabeling
 
   - Semi-auto localization (click on specific points to guide the model in segmenting objects): [Auto Labeling] -> Choose the version of SAM2 -> Click on specific points
     
-<img src="https://github.com/user-attachments/assets/b52e49f6-d570-4755-9035-18612d8be2a2" width="90%"></img>
+<img src="https://github.com/user-attachments/assets/3c498d7c-2b35-4d4f-ba07-2905c4ab4343" width="90%"></img>
 
 
   - 
